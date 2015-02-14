@@ -31,6 +31,7 @@
 - [Taunus](https://github.com/taunus/taunus)
 - [Rendr](https://github.com/rendrjs/rendr)
 - [React](http://facebook.github.io/react/) / [Flux](http://facebook.github.io/flux/)
+- [React Router](https://github.com/rackt/react-router)
 - [Fluxible](http://fluxible.io/)
 - [Flatiron](http://flatironjs.org/)
 
@@ -47,3 +48,5 @@
 - [Isomorphic Flux examples](https://github.com/yahoo/flux-examples)
 - [Isomorphic Tutorial](https://github.com/spikebrehm/isomorphic-tutorial)
 - [Isomorphic](https://github.com/ndreckshage/isomorphic) - npm package for scaffolding out an isomorphic React + Flux app
+- [React Router Mega Demo](https://github.com/rackt/react-router-mega-demo)
+- [Isomorphic Lab](https://github.com/insin/isomorphic-lab) - using React Router to handle requests via Express middleware, fetch data up-front, bootstrap on the client, handle document titles and isomorphic form display, submission & redisplay.
